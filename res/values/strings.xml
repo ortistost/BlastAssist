@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlastAssist</string>
+    <string name="service_label">BlastAssist</string>
+    <string name="service_desc">Ekranı tarayıp Block Blast için en iyi hamleyi üstte gösterir.</string>
+    <string name="howto">1) Aşağıdan Erişilebilirlik ayarlarını aç, BlastAssist servisini etkinleştir.\n2) Block Blast\'i aç, 3 blok görünürken panelde \"Kalibre\"ye bas ve adımları uygula.\n3) Yuvarlak butona dokun: ON olunca canlı tarama başlar.\n\nPanel ve buton ayrı ayrı sürüklenebilir.</string>
+</resources>
